@@ -1,0 +1,59 @@
+The OnePlus 15 is one of those rare flagships that looks straightforward at first glance but turns unexpectedly interesting the more time you spend with it. On the outside, it seems like OnePlus is playing it safe this year with a cleaner design, a bigger battery, and a familiar software experience. But dig a little deeper and you will notice some features that quietly change the way the phone behaves. Some decisions make complete sense, others feel surprisingly restrained, and a few are just bold enough to make you wonder what OnePlus is really aiming for. So, is the OnePlus 15 the best flagship buy in 2025? Well, that totally depends on your perspective and needs. But, we have summarised our detailed OnePlus 15 review in 9 points to help make your buying decision easier.
+
+advertisement
+
+OnePlus has hiked the price of the OnePlus 15 by Rs 3,000, when we compare it with the OnePlus 13. But, the initial launch offers let you buy the device at the price of its predecessor. You will be able to buy it at Rs 79,999 via Amazon and other official channels. Now that the price part is out of our way, let's talk about the OnePlus 15's design, gaming performance, display, camera experience and more in 9 points.
+
+OnePlus 15 review in 9 points
+
+1. A cleaner, more grounded design approach this year
+
+OnePlus drops its signature circular camera module in favour of a neat square island for a modern look. The phone has flat frames, a classy matte finish, and a violet tone that looks premium without shouting for attention. It is slimmer at 8.1mm despite packing a massive battery, which speaks to the internal design effort. However, removing the Alert Slider, one of the brand’s most loved hardware features, feels like a step backwards, and the Plus Key doesn’t offer the same instinctive convenience. It is useful but OnePlus fans would likely take sometime to get used to it.
+
+2. Slimmer body, bigger battery
+
+The 7,300mAh battery is the biggest strength of the OnePlus 15. Fitting this cell into a slimmer frame than last year’s model is genuinely impressive. In the hand, the device feels far lighter than its battery capacity suggests, thanks to solid weight distribution. Also, OnePlus has managed to offer the device almost at the weight of the OnePlus 13. The downside is that the slimmer frame, paired with the powerful chipset, means the phone does get warm when pushed hard, something which I noted clearly in the stress tests.
+
+3. Snapdragon 8 Elite Gen 5, excellent numbers on paper
+
+Speaking of which, benchmark results are strong and place the OnePlus 15 strongly in the flagship territory. In our testing, Geekbench multi-core scores touched 9,629, and AnTuTu offered 3.6 million score. These figures confirm the phone can handle everything from heavy apps to high-end gaming. It is a powerhouse because no flagship has scored such a high score on Antutu. The chipset isn’t the absolute thermal champion, but for general usage, it’s more than enough. The peak performance is there, but it’s the sustained performance where some limitations show up.
+
+4. Gaming performance is smooth, but thermals can flare up
+
+advertisement
+
+OxygenOS 16 feels clean, fast, and responsive, the kind of software experience OnePlus has always been appreciated for. App switching is instant, animations look fluid, and gaming is consistently stable. But under repeated heavy tasks, the phone crosses 50°C and loses around 10 percent charge in a 10-minute AnTuTu loop. This isn’t a daily use scenario, but it still shows that the thermal envelope isn’t perfect. In everyday use, the phone behaves brilliantly and it is only during stress bursts that the stability dips.
+
+During my usage, Genshin Impact ran on "High" graphics with 30fps by default and I got a smooth experience without over-taxing the hardware. However, switching to higher (60fps) frame rate required me to lower the graphics setting. The same stands for BGMI too, but you get a top-notch gaming performance when you enable High Performance mode in the Settings. Benchmark tests like 3DMark Wild Life Extreme showed 82 per cent stability, indicating that the GPU doesn’t throttle aggressively under sustained load. On the downside, during very long and demanding sessions of about 1.5 to 2 hours, the phone does warm up, which eventually impact frame rate stability.
+
+advertisement
+
+5. 1.5K AMOLED display is sharp, bright, and fluid but not the best
+
+The 6.7-inch AMOLED display offers excellent brightness and a super-smooth 165Hz refresh rate. Although, in our test, the device's panel never reached 165Hz and it mostly stayed on 120Hz or 30Hz. But, I have to say colours are well-tuned, viewing angles are strong, and HDR content looks great. That said, OnePlus moving from QHD+ resolution screen to a 1.5K panel will disappoint users who expect the absolute best display at this price. similarly, the local brightness has been improved, but the peak brightness for HDR video streaming has also dropped by 900nits. Even though the difference isn’t as noticeable in real-world use, on paper, this feels like a compromise to achieve better battery life and efficiency.
+
+6. Battery life is genuinely industry-leading
+
+The OnePlus 15’s endurance is one of the best I have tested this year. Over 15 hours of continuous use in Balanced mode is exceptional, and many users will comfortably get 1.5 days depending on usage. But, keep in mind that some short binge watching sessions and a few hours of gaming drops the battery levels much faster on High Performance mode. So, you could be required to charge after almost 10 hours. The 120W fast charger tops the phone up in around 25 minutes, which reduces charging anxiety drastically. This is the area where OnePlus clearly focused its energy and it pays off. No complaint here.
+
+advertisement
+
+7. Cameras deliver reliable results, but don’t push boundaries
+
+The main camera produces crisp, balanced shots with realistic skin tones, plenty of details and pleasing colours in daylight. Low-light performance is decent but not on the level of big camera-centric brands. The telephoto performance is where it feels like the phone could have done better because zoom photos lack the clarity and details expected in this price bracket. The camera system is reliable for everyday use, but it isn’t the standout upgrade some were hoping for. It is good, but not exceptional.
+
+8. Software is clean, but the UI experience could feel repetitive
+
+OxygenOS 16 retains its clean look, which many users like. Navigation is smooth, and there isn’t a lot of bloatware. But the UI now feels more iOS-like than uniquely OnePlus-like. Users who have been following the brand for years may feel the identity fading slightly. The Plus Key also doesn’t feel as natural as the Alert Slider it replaces. Still, overall stability and polish remain strengths.
+
+advertisement
+
+9. A mature flagship that focuses on dependability, not disruption
+
+The OnePlus 15 doesn’t chase breakthroughs or experimental features. It settles comfortably into a rhythm of offering strong performance, excellent battery life, a clean design, rapid charging, and everyday reliability. Its weaknesses? noticeable thermals under extreme stress, decent telephoto performance, the 1.5K display choice, and the removal of the Alert Slider keep it from feeling truly bold. But it’s clear that OnePlus played it safe by prioritising balance and stability over risks.
+
+For many users, this will be exactly what they want. For enthusiasts expecting a big leap, it may feel a bit too safe. Overall, the OnePlus 15 feels like a well-rounded flagship phone and power users will likely love it.
+
+- Ends
+
+Published By: Ankita Garg Published On: Nov 14, 2025

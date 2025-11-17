@@ -1,0 +1,13 @@
+NHS England is investigating the possibility that it has fallen victim to a prolific ransomware operation, after the Cl0p (aka Clop) gang claimed to have hacked its systems via a post to its dark web leak site made on 11 November.
+
+At the time of writing, Cl0p has not named any specific NHS bodies or leaked any organisational or patient data. Nor have there been any outward-facing signs of a classic ransomware attack, such as IT outages or service disruptions, although Cl0p is among a number of cyber gangs known to conduct attacks that do not result in data encryption, preferring instead to stick to theft and extortion.
+
+However, the NHS appears alongside other names, one of which, US newspaper The Washington Post, has confirmed that it fell victim to a Cl0p attack orchestrated via two distinct vulnerabilities in Oracle’s E-Business suite, patched earlier in the autumn. NHS England’s digital teams published an advisory notice covering the Oracle bugs – CVE-2025-53072 and CVE-2025-62481 – on 23 October.
+
+In a statement circulated to media, an NHS England spokesperson confirmed there was a live investigation in progress, although they made no mention of ransomware or the Cl0p gang specifically.
+
+“We are aware that the NHS has been listed on a cyber crime website as being impacted by a cyber attack, but no data has been published,” they said.
+
+“Our cyber security team is working closely with the National Cyber Security Centre [NCSC] to investigate.”
+
+The NCSC declined to comment directly on the investigation.

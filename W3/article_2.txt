@@ -1,0 +1,33 @@
+The Digital Personal Data Protection Rules (DPDP), 2025 were notified this week, kicking off the formation of the Data Protection Board of India (DPBI), and the legal framework for safeguarding the data of Indian people online. The DPDP Act itself was passed in Parliament in August 2023, and a draft of the Rules that were notified on Friday (November 14, 2025) were released for consultation in January.
+
+What do the DPDP Act and Rules do?
+
+The DPDP Act, 2023 is India’s version of data protection laws such as Europe’s General Data Protection Regulation (GDPR) and similar regimes in many other countries, such as Singapore’s Personal Data Protection Act, 2012. Like these regimes, the Act sets out some baselines for how companies (“data fiduciaries”) handle data of their users in India (“data principals”). For instance, there must be access control and encryption, along with security audits for large firms (“significant data fiduciaries”).
+
+Data principals are also required to take “informed” consent from their users, and anyone whose data they collect, by giving a summary of what data they are collecting, and how they will use it. The Act also gives users the right to erase or modify data they provide to firms, or to delete it. After a specified period of inactivity, firms are under an obligation to delete the data they have on users. A Data Protection Officer has to be appointed by large firms, who will oversee compliance.
+
+The Act also restricts targeted advertising and certain data collection for children. The Rules carve out an exemption here for parents tracking their children’s location.
+
+To allow users to exercise rights across a variety of fiduciaries (accounts over several platforms), the Act and Rules set out the framework for a “Consent Manager,” a service that will allow users to manage their data across several fiduciaries, similar to permissions manager settings on a smartphone.
+
+Data breaches must be reported as soon as possible, the Act says. Fines for non-compliance for different parts of the law range from ₹10,000 to ₹250 crore.
+
+Are these requirements in force?
+
+No. While over two years have gone by since the Act was notified, the Ministry of Electronics and Information Technology (MeitY) has chosen to give firms up to 18 more months to comply. Some requirements, like having a DPO be appointed for large firms, goes into effect one year from now.
+
+Some parts of the Act have been kicked into action — such as the DPBI’s formation. The DPBI will oversee the Act’s implementation and will be a subordinate office of MeitY. The body will have four members.
+
+Another part of the Act that goes live is the amendment to the Right to Information Act, 2005, which has been furiously resisted by digital rights and transparency groups alike.
+
+How is the RTI Act amended? Why is the amendment controversial?
+
+The 2023 Act amended Section 8(1)(j) of the Right to Information Act, 2005, which allows citizens to request public information from government bodies. That section allowed government bodies to refuse requests for “personal information,” but said that this exemption would not apply if there was a larger public interest in disclosing the information.
+
+The DPDP Act removed that carve-out, allowing government organisations more discretion in what is and isn’t personal information, and decline it even if doing so would be in the public interest. The 2023 law was not going to be in force — including this amendment — until the Union government notified it. Transparency activists, such as those belonging to the Mazdoor Kisan Shakti Sangathan (MKSS) and the National Campaign for the People’s Right to Information (NCPRI), spent years (since the DPDP Act’s 2022 draft was published) resisting this change.
+
+But on Friday, the government disregarded that pushback, and specifically invoked its power to push the amendment through in the form of a notification. Another amendment, to the Information Technology Act, 2000, is not yet in force.
+
+Organisations like MKSS have worked with grassroots movements to get access to ration “muster rolls” and work order logbooks, allowing them to scrutinise public records for signs of graft and misspending. With a broad definition of “personal information,” they have argued, citizens may have no room to conduct such social audits. The amendment could also be used to shield powerful officials’ misconduct, they have said.
+
+Nikhil Dey, an MKSS founding member, vowed that “‘[w]e the people’ will fight back” after the amendment went into force.
